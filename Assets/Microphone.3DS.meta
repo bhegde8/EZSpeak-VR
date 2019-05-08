@@ -1,0 +1,171 @@
+fileFormatVersion: 2
+guid: cbd60944a797ca845bca107c0df35238
+timeCreated: 1478968190
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: AKG Symbol
+    100002: Circle01
+    100004: Circle02
+    100006: Circle03
+    100008: Cylinder01
+    100010: Cylinder02
+    100012: Cylinder03
+    100014: Cylinder04
+    100016: Cylinder05
+    100018: Cylinder06
+    100020: Line01
+    100022: Mesh131
+    100024: Mic
+    100026: Mic Stand
+    100028: //RootNode
+    100030: Object01
+    100032: Object02
+    100034: Object03
+    100036: Plane01
+    100038: Sphere01
+    100040: Text01
+    100042: Text02
+    100044: 'Whole Mic '
+    400000: AKG Symbol
+    400002: Circle01
+    400004: Circle02
+    400006: Circle03
+    400008: Cylinder01
+    400010: Cylinder02
+    400012: Cylinder03
+    400014: Cylinder04
+    400016: Cylinder05
+    400018: Cylinder06
+    400020: Line01
+    400022: Mesh131
+    400024: Mic
+    400026: Mic Stand
+    400028: //RootNode
+    400030: Object01
+    400032: Object02
+    400034: Object03
+    400036: Plane01
+    400038: Sphere01
+    400040: Text01
+    400042: Text02
+    400044: 'Whole Mic '
+    2300000: Circle01
+    2300002: Circle02
+    2300004: Circle03
+    2300006: Cylinder01
+    2300008: Cylinder02
+    2300010: Cylinder03
+    2300012: Cylinder04
+    2300014: Cylinder05
+    2300016: Cylinder06
+    2300018: Line01
+    2300020: Mesh131
+    2300022: Object01
+    2300024: Object02
+    2300026: Object03
+    2300028: Plane01
+    2300030: Sphere01
+    2300032: Text01
+    2300034: Text02
+    3300000: Circle01
+    3300002: Circle02
+    3300004: Circle03
+    3300006: Cylinder01
+    3300008: Cylinder02
+    3300010: Cylinder03
+    3300012: Cylinder04
+    3300014: Cylinder05
+    3300016: Cylinder06
+    3300018: Line01
+    3300020: Mesh131
+    3300022: Object01
+    3300024: Object02
+    3300026: Object03
+    3300028: Plane01
+    3300030: Sphere01
+    3300032: Text01
+    3300034: Text02
+    4300000: Plane01
+    4300002: Object02
+    4300004: Cylinder02
+    4300006: Circle02
+    4300008: Circle03
+    4300010: Text01
+    4300012: Circle01
+    4300014: Text02
+    4300016: Object01
+    4300018: Sphere01
+    4300020: Cylinder01
+    4300022: Line01
+    4300024: Cylinder03
+    4300026: Cylinder04
+    4300028: Mesh131
+    4300030: Cylinder06
+    4300032: Object03
+    4300034: Cylinder05
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

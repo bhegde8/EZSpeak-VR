@@ -1,0 +1,173 @@
+fileFormatVersion: 2
+guid: a50fe0da71e03a247b4b127639252978
+timeCreated: 1478971494
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Circle01
+    100002: Circle02
+    100004: Circle03
+    100006: Circle04
+    100008: Circle05
+    100010: Circle06
+    100012: Circle07
+    100014: Circle08
+    100016: Circle09
+    100018: Line03
+    100020: Line04
+    100022: Loft01
+    100024: Loft02
+    100026: //RootNode
+    100028: Rectangle0
+    100030: Rectangle1
+    100032: Rectangle2
+    100034: Rectangle3
+    100036: Rectangle4
+    100038: Rectangle5
+    100040: Rectangle6
+    400000: Circle01
+    400002: Circle02
+    400004: Circle03
+    400006: Circle04
+    400008: Circle05
+    400010: Circle06
+    400012: Circle07
+    400014: Circle08
+    400016: Circle09
+    400018: Line03
+    400020: Line04
+    400022: Loft01
+    400024: Loft02
+    400026: //RootNode
+    400028: Rectangle0
+    400030: Rectangle1
+    400032: Rectangle2
+    400034: Rectangle3
+    400036: Rectangle4
+    400038: Rectangle5
+    400040: Rectangle6
+    2300000: Circle01
+    2300002: Circle02
+    2300004: Circle03
+    2300006: Circle04
+    2300008: Circle05
+    2300010: Circle06
+    2300012: Circle07
+    2300014: Circle08
+    2300016: Circle09
+    2300018: Line03
+    2300020: Line04
+    2300022: Loft01
+    2300024: Loft02
+    2300026: Rectangle0
+    2300028: Rectangle1
+    2300030: Rectangle2
+    2300032: Rectangle3
+    2300034: Rectangle4
+    2300036: Rectangle5
+    2300038: Rectangle6
+    3300000: Circle01
+    3300002: Circle02
+    3300004: Circle03
+    3300006: Circle04
+    3300008: Circle05
+    3300010: Circle06
+    3300012: Circle07
+    3300014: Circle08
+    3300016: Circle09
+    3300018: Line03
+    3300020: Line04
+    3300022: Loft01
+    3300024: Loft02
+    3300026: Rectangle0
+    3300028: Rectangle1
+    3300030: Rectangle2
+    3300032: Rectangle3
+    3300034: Rectangle4
+    3300036: Rectangle5
+    3300038: Rectangle6
+    4300000: Circle01
+    4300002: Line03
+    4300004: Line04
+    4300006: Circle02
+    4300008: Circle09
+    4300010: Rectangle0
+    4300012: Circle03
+    4300014: Circle04
+    4300016: Circle05
+    4300018: Rectangle1
+    4300020: Rectangle2
+    4300022: Rectangle3
+    4300024: Circle06
+    4300026: Circle08
+    4300028: Circle07
+    4300030: Loft01
+    4300032: Loft02
+    4300034: Rectangle4
+    4300036: Rectangle5
+    4300038: Rectangle6
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
